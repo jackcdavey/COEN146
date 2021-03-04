@@ -1,0 +1,5 @@
+Questions:
+
+Step 3: Running the executable from Step 1 & 2 results in a seg fault, due to missing parameters
+
+Step 4: Running the program with '5000' rather than '500' results in a much more noticeable delay from execution to completion. 
